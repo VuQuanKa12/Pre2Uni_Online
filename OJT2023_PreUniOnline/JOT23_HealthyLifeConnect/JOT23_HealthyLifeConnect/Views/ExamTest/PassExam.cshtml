@@ -1,0 +1,87 @@
+﻿@using JOT23_Pre2UniOnline.DatAccess
+@using JOT23_Pre2UniOnline.Models
+@{
+    ExamTest exam = ViewBag.Exam;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    @Html.Partial("_head")
+</head>
+
+<body class=" hero-header">
+  
+    @Html.Partial("_spanner")
+    @Html.Partial("_navStart")
+    @if (UserLogin.Instance.RoleID != 2)
+    {
+        <a href="@Url.Action("Index", "Home")" class="nav-item nav-link ">Home</a>
+        <a href="@Url.Action("About", "Home")" class="nav-item nav-link">About US</a>
+        <a href="@Url.Action("Contact", "Home")" class="nav-item nav-link">Contact</a>
+    }
+    <a href="@Url.Action("Course", "Home")" class="nav-item nav-link">Course</a>
+    @Html.Partial("_navEnd")
+
+    <div class="container-fluid bg-primary mb-5 hero-header">
+        <div class="container py-1 mt-3">
+            <div class="row justify-content-center py-5">
+                <h1 class="text-center text-white animated slideInDown">Exam Test</h1>
+            </div>
+            <div class="container">
+                <div class="row justify-content-center py-1 mb-0">
+                    <div id="" class="col-md-5 py-3 title wow mb-0" data-wow-delay="0.2s">
+                        <h1 class="text-center text-white">Name Exam: @exam.NameTest</h1><br /><br />
+                        <h2 class="text-center text-white">Time to take: @exam.TimeStart - @exam.TimeEnd</h2><br />
+                        <h2 class="text-center text-white">Day: @exam.DateExam.ToString("dd/MM/yyyy")</h2><br />
+                        <h2 class="text-center text-white">Number Question: @exam.NumQuestion</h2><br />
+
+                        <div class="form-group">
+                            <label for="loginPassword">Password:</label>
+                            <input type="password" name="Password" pattern=".*\S.*" class="form-control" id="loginPassword" placeholder="Enter password" required>
+                        </div>
+
+                        <div class="form-group row justify-content-center">
+                            <div class="col-md-3 mt-3">
+                                <a href="javascript:void(0);" id="startExam" class="btn btn-primary">Do now</a>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @Html.Partial("_endScript")
+</body>
+</html>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        // Lấy tham chiếu đến các phần tử DOM cần thiết
+        var passwordInput = document.getElementById("loginPassword");
+        var startExamButton = document.getElementById("startExam");
+
+        // Thêm sự kiện click cho nút "Do now"
+        startExamButton.addEventListener("click", function () {
+            // Lấy giá trị mật khẩu từ người dùng
+            var enteredPassword = passwordInput.value;
+             
+            // Kiểm tra mật khẩu
+            if (enteredPassword === "@exam.Password") {
+                // Nếu mật khẩu đúng, thực hiện chuyển hướng hoặc hành động khác tùy ý
+                if(@UserLogin.Instance.RoleID !=2){
+                    window.location.href = "@Url.Action("LecturerDoQuiz","ExamTest", new{idExam = exam.ID})"; // Student click
+                }else{
+                    window.location.href = "@Url.Action("LecturerDoQuiz","ExamTest", new{idExam = exam.ID})"; // Lecturer Click
+                }
+                
+            } else {
+                // Nếu mật khẩu sai, hiển thị thông báo và xóa mật khẩu nhập
+                alert("Incorrect password. Please try again.");
+                passwordInput.value = "";
+            }
+        });
+    });
+</script>

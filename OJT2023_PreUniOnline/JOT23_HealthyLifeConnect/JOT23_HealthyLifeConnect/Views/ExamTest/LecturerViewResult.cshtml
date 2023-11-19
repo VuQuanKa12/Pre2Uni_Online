@@ -1,0 +1,86 @@
+﻿@using JOT23_HealthyLifeConnect.Services
+@using JOT23_Pre2UniOnline.Models
+@using JOT23_Pre2UniOnline.DatAccess;
+@model List<ResultQuiz>
+@{
+    ViewBag.title = "Pre2Uni";
+    var User = ViewBag.user;
+    List<ResultQuiz> list = new List<ResultQuiz>();
+    list = Model;
+    list.OrderByDescending(result => result.Point).ToList();
+
+
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    @Html.Partial("_head")
+</head>
+
+<body>
+    @Html.Partial("_spanner")
+    @Html.Partial("_navStart")
+    @if (ViewBag.Role != 2)
+    {
+        <a href="@Url.Action("Index", "Home")" class="nav-item nav-link ">Home</a>
+        <a href="@Url.Action("About", "Home")" class="nav-item nav-link">About US</a>
+        <a href="@Url.Action("Contact", "Home")" class="nav-item nav-link">Contact</a>
+    }
+    <a href="@Url.Action("Course", "Home")" class="nav-item nav-link">Course</a>
+    @Html.Partial("_navEnd")
+    <!-- tab search dictionary -->
+    <div class="container-fluid bg-primary mb-5 hero-header">
+        <div class="container py-1">
+            <div class="row justify-content-center" style="margin-top: 100px">
+                <div class="col-lg-10 text-center">
+                    <h1 class="display-3 text-white animated slideInDown">Result of @ViewBag.nameExam</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Calendar Start -->
+    <div class="container">
+        <div><a href="@Url.Action("ListExamTest","ExamTest")" class="btn btn-primary rounded-pill py-2 px-4 ml-2">BACK</a></div>
+    </div>
+    <div class="container">
+        <table class="table table-striped text-center">
+            <thead>
+                <tr>
+                    <th>Name Student</th>
+                    <th>Point</th>
+                    <th>Correct Answer</th>
+                    
+
+                </tr>
+            </thead>
+            <tbody>
+                @if (list.Count > 0)
+                {
+                    foreach(ResultQuiz obj in list)
+                    {
+                        <tr>
+                            <td>@obj.FirstName @obj.LastName</td>
+                            <td>@obj.Point.ToString("0.0")</td>
+                            <td>@obj.NumberAnswerCorrect</td>
+                        </tr>
+                    }
+                   
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="5"><h2>Not Found Anything</h2></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <!-- Calendar End -->
+    @Html.Partial("_footer")
+    @Html.Partial("_endScript")
+ 
+</body>
+
+</html>

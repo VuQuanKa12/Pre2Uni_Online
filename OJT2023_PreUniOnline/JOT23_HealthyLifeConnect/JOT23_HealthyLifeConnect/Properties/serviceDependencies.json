@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "Server=(DESKTOP-KF9V6N0):mssqllocaldb;Database=HealthyLifeConnect;Trusted_Connection=True;MultipleActiveResultSets=true",
+      "dynamicId": null
+    }
+  }
+}

@@ -1,0 +1,125 @@
+﻿@using JOT23_HealthyLifeConnect.Services
+@using JOT23_Pre2UniOnline.Models
+@using JOT23_Pre2UniOnline.DatAccess;
+@{
+    ViewBag.title = "Pre2Uni";
+    var User = ViewBag.user;
+    int LecturerID = Convert.ToInt32(ViewBag.IDLec);
+
+    // var Courses = CourseDAO.Instance.Courses().Where(x => x.IDLecturer == LecturerID).ToList();
+    var Courses = CourseDAO.Instance.getCourseLecturer(LecturerID);
+    DateTime vietnamTime = CurrentDateTime.GetcurrentDateTime;
+    TimeSpan currentTime = vietnamTime.TimeOfDay;
+    List<ExamTest> examtests = new List<ExamTest>();
+    List<ExamTest> examnew = new List<ExamTest>();
+    foreach(Course obj in Courses)
+    {
+        examnew = ExamDAO.Instance.GetExamByIDCourse(obj.ID);
+        examtests.AddRange(examnew);
+    }
+    examtests.OrderByDescending(c => c.ID).ToList();
+    //List<ExamTest> examtests = ExamDAO.Instance.ExamTests();
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    @Html.Partial("_head")
+</head>
+
+<body>
+    @Html.Partial("_spanner")
+    @Html.Partial("_navStart")
+    @if (ViewBag.Role != 2)
+    {
+        <a href="@Url.Action("Index", "Home")" class="nav-item nav-link ">Home</a>
+        <a href="@Url.Action("About", "Home")" class="nav-item nav-link">About US</a>
+        <a href="@Url.Action("Contact", "Home")" class="nav-item nav-link">Contact</a>
+    }
+    <a href="@Url.Action("Course", "Home")" class="nav-item nav-link">Course</a>
+    @Html.Partial("_navEnd")
+    <!-- tab search dictionary -->
+    <div class="container-fluid bg-primary mb-5 hero-header">
+        <div class="container py-1">
+            <div class="row justify-content-center" style="margin-top: 100px">
+                <div class="col-lg-10 text-center">
+                    <h1 class="display-3 text-white animated slideInDown">List Exam follow Course</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Calendar Start -->
+    <div class="container">
+        <table class="table table-striped text-center">
+            <thead>
+                <tr>
+                    <th>Name Course</th>
+                    <th>Exam Name</th>
+                    <th>Time</th>
+                    <th>Date Exam</th>
+                    <th>Number question</th>
+                    <th>View Result</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+                @if (examtests.Count > 0)
+                {
+                    var courseGroupedExams = examtests.GroupBy(e => e.IDCourse); // Nhóm các Examtest theo CourseID
+
+                    foreach (var group in courseGroupedExams)
+                    {
+                        int rowspanCount = group.Count(); // Số lượng Examtest cho mỗi CourseID
+
+                        // Lấy tên khóa học từ ID khóa học (CourseID)
+                        var courseName = CourseDAO.Instance.Courses().First(c => c.ID == group.Key).Title;
+
+                        foreach (var exam in group)
+                        {
+                            <tr>
+                                @if (exam == group.First()) // Chỉ hiển thị tên khóa học ở hàng đầu tiên
+                                {
+                                    <td rowspan="@rowspanCount">
+                                        <b>
+                                            <span>@courseName</span>
+                                        </b>
+                                    </td>
+                                }
+                                <td>
+                                    <b><a href="@Url.Action("PassExam", "ExamTest", new {idExam = exam.ID})">@exam.NameTest</a></b>
+                                </td>
+                                <td>
+                                    <b><span>@exam.TimeStart.ToString() - @exam.TimeEnd.ToString()</span></b>
+                                </td>
+                                <td>
+                                    <b><span>@exam.DateExam.ToString("dd/MM/yyyy")</span></b>
+                                </td>
+                               <td><span>@exam.NumQuestion</span></td>
+                                <td>
+                                    <b><a href="@Url.Action("LecturerViewResult", "ExamTest", new {idExam = exam.ID , examName = exam.NameTest})">View</a></b>
+                                </td>
+                            </tr>
+                        }
+                    }
+                    <br />
+                }
+
+                else
+                {
+                    <tr>
+                        <td colspan="5"><h2>Not Found Anything</h2></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <!-- Calendar End -->
+    @Html.Partial("_footer")
+    @Html.Partial("_endScript")
+    <script>
+        console.log("@currentTime.ToString()");
+    </script>
+</body>
+
+</html>
