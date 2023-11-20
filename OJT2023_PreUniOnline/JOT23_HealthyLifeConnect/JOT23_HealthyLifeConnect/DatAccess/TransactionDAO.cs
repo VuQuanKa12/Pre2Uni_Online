@@ -43,7 +43,7 @@ namespace JOT23_Pre2UniOnline.DatAccess
 					IDStudent = Int32.Parse(row["IDStudent"].ToString().Trim()),
 					CourseTitle = row["CourseTitle"].ToString().Trim(),
 					Price = Double.Parse(row["Price"].ToString().Trim()),
-					Created = DateTime.Parse(row["Date"].ToString().Trim()),
+					Date = DateTime.Parse(row["Date"].ToString().Trim()),
 					Method = row["Method"].ToString().Trim(),
 					OrderID = row["OrderID"].ToString().Trim(),
 				};

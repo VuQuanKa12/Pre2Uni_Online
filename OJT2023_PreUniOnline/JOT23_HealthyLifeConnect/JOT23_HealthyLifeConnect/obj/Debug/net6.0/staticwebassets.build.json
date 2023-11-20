@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gx6dOngUoPy4fUxwJxEo6IGW4B/1I714GuJU+y6FkJg=",
+  "Hash": "zpSXwaPEOZ6fFitlrKebVWk1Ru2WkySRdH3bmdeND9E=",
   "Source": "JOT23_Pre2UniOnline",
   "BasePath": "_content/JOT23_Pre2UniOnline",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "JOT23_Pre2UniOnline\\wwwroot",
       "Source": "JOT23_Pre2UniOnline",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\css\\MettingRoom.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\css\\MettingRoom.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "css/MettingRoom.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\css\\MettingRoom.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\css\\site.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\css\\site.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\css\\style.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\css\\style.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\css\\Styles.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\css\\Styles.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "css/Styles.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Styles.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\css\\StyleSpanner.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\css\\StyleSpanner.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "css/StyleSpanner.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\StyleSpanner.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\favicon.ico",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\favicon.ico",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\File\\FileExam.xlsx",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\File\\FileExam.xlsx",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "File/FileExam.xlsx",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\File\\FileExam.xlsx"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\File\\FileQuiz.xlsx",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\File\\FileQuiz.xlsx",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "File/FileQuiz.xlsx",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\File\\FileQuiz.xlsx"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\_navAdmin.cshtml",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\_navAdmin.cshtml",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/_navAdmin.cshtml",
       "AssetKind": "Build",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\img\\_navAdmin.cshtml"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\about.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\about.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/about.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Lecturer\\3-2.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Lecturer\\3-2.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Avatar/Lecturer/3-2.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Avatar\\Lecturer\\3-2.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Lecturer\\Lecturer.png",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Lecturer\\Lecturer.png",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Avatar/Lecturer/Lecturer.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Avatar\\Lecturer\\Lecturer.png"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Lecturer\\Lecturer-1.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Lecturer\\Lecturer-1.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Avatar/Lecturer/Lecturer-1.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Avatar\\Lecturer\\Lecturer-1.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Lecturer\\Lecturer-2.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Lecturer\\Lecturer-2.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Avatar/Lecturer/Lecturer-2.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Avatar\\Lecturer\\Lecturer-2.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Lecturer\\Lecturer-3.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Lecturer\\Lecturer-3.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Avatar/Lecturer/Lecturer-3.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Avatar\\Lecturer\\Lecturer-3.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Lecturer\\Lecturer-4.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Lecturer\\Lecturer-4.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Avatar/Lecturer/Lecturer-4.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Avatar\\Lecturer\\Lecturer-4.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Lecturer\\Lecturer-5.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Lecturer\\Lecturer-5.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Avatar/Lecturer/Lecturer-5.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Avatar\\Lecturer\\Lecturer-5.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Student\\2-1.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Student\\2-1.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Avatar/Student/2-1.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Avatar\\Student\\2-1.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Student\\2-1.png",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Student\\2-1.png",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Avatar/Student/2-1.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Avatar\\Student\\2-1.png"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Student\\2-6.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Student\\2-6.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Avatar/Student/2-6.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Avatar\\Student\\2-6.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Student\\3-1.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Student\\3-1.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Avatar/Student/3-1.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Avatar\\Student\\3-1.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Student\\3-1.png",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Student\\3-1.png",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Avatar/Student/3-1.png",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Avatar\\Student\\3-1.png"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Student\\3-10.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Student\\3-10.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Avatar/Student/3-10.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Avatar\\Student\\3-10.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Student\\Female.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Student\\Female.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Avatar/Student/Female.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Avatar\\Student\\Female.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Student\\Male.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Student\\Male.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Avatar/Student/Male.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Avatar\\Student\\Male.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Student\\Student-1.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Student\\Student-1.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Avatar/Student/Student-1.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Avatar\\Student\\Student-1.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Student\\Student-1.png",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Student\\Student-1.png",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Avatar/Student/Student-1.png",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Avatar\\Student\\Student-1.png"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Student\\Student-1040.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Avatar\\Student\\Student-1040.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Avatar/Student/Student-1040.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Avatar\\Student\\Student-1040.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\bg.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\bg.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/bg.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bg.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\bg\\backgroundIMG.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\bg\\backgroundIMG.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/bg/backgroundIMG.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bg\\backgroundIMG.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\bg\\down_bgimg.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\bg\\down_bgimg.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/bg/down_bgimg.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bg\\down_bgimg.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\bg\\logonew.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\bg\\logonew.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/bg/logonew.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bg\\logonew.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\bg\\LOgoP.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\bg\\LOgoP.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/bg/LOgoP.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bg\\LOgoP.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\booking.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\booking.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/booking.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\img\\booking.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Course\\1.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Course\\1.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Course/1.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Course\\1.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Course\\2.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Course\\2.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Course/2.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Course\\2.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Course\\3.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Course\\3.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Course/3.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Course\\3.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Course\\4.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Course\\4.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Course/4.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Course\\4.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Course\\5.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Course\\5.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Course/5.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Course\\5.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Course\\6.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Course\\6.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Course/6.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Course\\6.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Course\\7.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Course\\7.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Course/7.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Course\\7.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\destination-1.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\destination-1.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/destination-1.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\img\\destination-1.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\destination-2.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\destination-2.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/destination-2.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\img\\destination-2.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\destination-3.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\destination-3.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/destination-3.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\img\\destination-3.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\destination-4.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\destination-4.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/destination-4.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\img\\destination-4.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\imgBG.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\imgBG.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/imgBG.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgBG.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Logo-icon.png",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Logo-icon.png",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Logo-icon.png",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Logo-icon.png"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Logo-icon32x32.png",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\Logo-icon32x32.png",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/Logo-icon32x32.png",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Logo-icon32x32.png"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\MOMO.PNG",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\MOMO.PNG",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/MOMO.PNG",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\img\\MOMO.PNG"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\team-1.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\team-1.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/team-1.jpg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-1.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\team-2.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\team-2.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/team-2.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-2.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\team-3.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\team-3.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/team-3.jpg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-3.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\team-4.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\team-4.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/team-4.jpg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-4.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\testimonial-1.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\testimonial-1.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/testimonial-1.jpg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-1.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\testimonial-2.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\testimonial-2.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/testimonial-2.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-2.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\testimonial-3.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\testimonial-3.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/testimonial-3.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-3.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\testimonial-4.jpg",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\testimonial-4.jpg",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/testimonial-4.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-4.jpg"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\VNPAY.png",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\img\\VNPAY.png",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "img/VNPAY.png",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\img\\VNPAY.png"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\js\\AdminSet.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\js\\AdminSet.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "js/AdminSet.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\js\\AdminSet.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\js\\DictionaryMeet.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\js\\DictionaryMeet.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "js/DictionaryMeet.js",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\js\\DictionaryMeet.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\js\\jquery.min.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\js\\jquery.min.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "js/jquery.min.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\js\\main.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\js\\main.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\js\\main1.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\js\\main1.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "js/main1.js",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main1.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\js\\popper.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\js\\popper.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "js/popper.js",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\js\\popper.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\js\\Spanjs.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\js\\Spanjs.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "js/Spanjs.js",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Spanjs.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\js\\VideoCall.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\js\\VideoCall.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "js/VideoCall.js",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\js\\VideoCall.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\animate\\animate.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\animate\\animate.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/animate/animate.css",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\animate\\animate.min.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\animate\\animate.min.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/animate/animate.min.css",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.min.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\easing\\easing.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\easing\\easing.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/easing/easing.js",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\easing\\easing.min.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\easing\\easing.min.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/easing/easing.min.js",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.min.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/microsoft/signalr/dist/browser/signalr.js",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/microsoft/signalr/dist/browser/signalr.min.js",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/owlcarousel/assets/ajax-loader.gif",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/owlcarousel/assets/owl.carousel.css",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/owlcarousel/assets/owl.carousel.min.css",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.default.css",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.green.css",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.green.min.css",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/owlcarousel/assets/owl.video.play.png",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\owlcarousel\\LICENSE",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/owlcarousel/LICENSE",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\LICENSE"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/owlcarousel/owl.carousel.js",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/owlcarousel/owl.carousel.min.js",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/tempusdominus/css/tempusdominus-bootstrap-4.css",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/tempusdominus/js/moment.min.js",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\tempusdominus\\js\\moment.min.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/tempusdominus/js/moment-timezone.min.js",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/tempusdominus/js/tempusdominus-bootstrap-4.js",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\waypoints\\links.php",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\waypoints\\links.php",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/waypoints/links.php",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\waypoints\\links.php"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\waypoints\\waypoints.min.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/waypoints/waypoints.min.js",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\wow\\wow.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\wow\\wow.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/wow/wow.js",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\wow\\wow.js"
     },
     {
-      "Identity": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\wow\\wow.min.js",
+      "Identity": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\lib\\wow\\wow.min.js",
       "SourceId": "JOT23_Pre2UniOnline",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
+      "ContentRoot": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\wwwroot\\",
       "BasePath": "_content/JOT23_Pre2UniOnline",
       "RelativePath": "lib/wow/wow.min.js",
       "AssetKind": "All",

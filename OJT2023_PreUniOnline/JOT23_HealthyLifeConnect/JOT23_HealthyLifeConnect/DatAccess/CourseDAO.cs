@@ -273,19 +273,19 @@ namespace JOT23_Pre2UniOnline.DatAccess
 		{
 			bool result = false;
 			string query = "UPDATE Course SET " +
-				" IDLecturer = @idLecturer , Title = @title , Detail = @detail , Price = @price , Sale = @sale WHERE IDCourse = @id";
+				" IDLecturer = @idLecturer , Title = @title , Detail = @detail , Price = @price , Sale = @sale WHERE ID = @id";
 			result = ConnectionData.ExecuteUpdate(query, new object[] { course.IDLecturer, course.Title, course.Detail, course.Price, course.Sale, course.ID });
 			return result;
 		}
 		public bool setStatus(Course course)
 		{
 			bool result = false;
-			string query = "UPDATE tblCourse SET " +
-				" Status = 1 WHERE IDCourse = @id ";
+			string query = "UPDATE Course SET " +
+				" Status = 1 WHERE ID = @id ";
 			if (course.Status)
 			{
-				query = "UPDATE tblCourse SET " +
-				" Status = 0 WHERE IDCourse = @id ";
+				query = "UPDATE Course SET " +
+				" Status = 0 WHERE ID = @id ";
 			}
 			result = ConnectionData.ExecuteUpdate(query, new object[] { course.ID });
 			return result;

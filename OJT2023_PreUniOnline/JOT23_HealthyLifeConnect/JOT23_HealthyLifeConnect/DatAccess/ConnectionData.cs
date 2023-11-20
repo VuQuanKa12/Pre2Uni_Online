@@ -5,7 +5,7 @@ namespace JOT23_Pre2UniOnline.DatAccess
 {
     public class ConnectionData
     {
-        static string connectionString = "server=DESKTOP-KF9V6N0;database=PreUniOnline_Last;uid=sa;pwd=123;TrustServerCertificate=true;Encrypt=false";
+        static string connectionString = "server=THAITHANHDAT\\MASTERMOS;database=PreUniOnline_Last;uid=sa;pwd=123;TrustServerCertificate=true;Encrypt=false";
      
         public static DataTable ExecuteQuery(string query, object[] parameter = null)
         {

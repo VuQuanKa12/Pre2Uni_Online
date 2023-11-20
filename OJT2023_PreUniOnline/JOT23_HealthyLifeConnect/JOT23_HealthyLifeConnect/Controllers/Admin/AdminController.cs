@@ -175,7 +175,41 @@ namespace JOT23_Pre2UniOnline.Controllers.Admin
 
 			return count;
 		}
-		public IActionResult LogOut()
+
+        [HttpPost]
+        public List<object> GetTotalPriceByDate()
+        {
+            List<object> data = new List<object>();
+
+            DateTime currentDate = DateTime.Now.Date;
+            List<DateTime> labels = Enumerable.Range(0, 7)
+                .Select(i => currentDate.AddDays(-i))
+                .ToList();
+            data.Add(labels);
+
+            List<double> SalesRevenue = new List<double>();
+            foreach (DateTime date in labels)
+            {
+                double revenue = GetRevenueForDay(date);
+                SalesRevenue.Add(revenue);
+            }
+            data.Add(SalesRevenue);
+
+            return data;
+        }
+
+        static double GetRevenueForDay(DateTime day)
+        {
+            List<TransactionHistory> transactions = new List<TransactionHistory>();
+            transactions = TransactionDAO.Instanse.Transactions();
+
+            double revenue = transactions
+                .Where(transaction => transaction.Date.Date == day)
+                .Sum(transaction => transaction.Price);
+
+            return revenue;
+        }
+        public IActionResult LogOut()
         {
             UserLogin.Instance.Email = "";
             UserLogin.Instance.Password = "";

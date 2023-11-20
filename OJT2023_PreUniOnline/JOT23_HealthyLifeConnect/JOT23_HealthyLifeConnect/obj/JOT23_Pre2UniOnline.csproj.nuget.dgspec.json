@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\JOT23_Pre2UniOnline.csproj": {}
+    "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\JOT23_Pre2UniOnline.csproj": {}
   },
   "projects": {
-    "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\JOT23_Pre2UniOnline.csproj": {
+    "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\JOT23_Pre2UniOnline.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\JOT23_Pre2UniOnline.csproj",
+        "projectUniqueName": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\JOT23_Pre2UniOnline.csproj",
         "projectName": "JOT23_Pre2UniOnline",
-        "projectPath": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\JOT23_Pre2UniOnline.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\obj\\",
+        "projectPath": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\JOT23_Pre2UniOnline.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "I:\\Desktop\\Do_An_OJT\\OJT2023_PreUniOnline\\JOT23_HealthyLifeConnect\\JOT23_HealthyLifeConnect\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -108,7 +105,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
