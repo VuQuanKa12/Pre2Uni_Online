@@ -1,0 +1,165 @@
+﻿@using JOT23_HealthyLifeConnect.Services
+@using JOT23_Pre2UniOnline.Models
+@using JOT23_Pre2UniOnline.DatAccess;
+@{
+    ViewBag.title = "Pre2Uni";
+    var Courses = CourseDAO.Instance.Courses();
+    var User = ViewBag.user;
+    DateTime vietnamTime = CurrentDateTime.GetcurrentDateTime;
+    TimeSpan currentTime = vietnamTime.TimeOfDay;
+    DateTime checkday = DateTime.Now;
+    List<Calendar> calendares = CalendarDAO.Instance.Calendars();
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    @Html.Partial("_head")
+</head>
+
+<body>
+    @Html.Partial("_spanner")
+    @Html.Partial("_navStart")
+    @if (ViewBag.Role != 2)
+    {
+        <a href="@Url.Action("Index", "Home")" class="nav-item nav-link ">Home</a>
+        <a href="@Url.Action("About", "Home")" class="nav-item nav-link">About US</a>
+        <a href="@Url.Action("Contact", "Home")" class="nav-item nav-link">Contact</a>
+    }
+    <a href="@Url.Action("Course", "Home")" class="nav-item nav-link">Course</a>
+    @Html.Partial("_navEnd")
+    <!-- tab search dictionary -->
+    <div class="container-fluid bg-primary mb-5 hero-header">
+        <div class="container py-1">
+            <div class="row justify-content-center" style="margin-top: 100px">
+                <div class="col-lg-10 text-center">
+                    <h1 class="display-3 text-white animated slideInDown">Calendar Of Course</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Calendar Start -->
+    <div class="container">
+        <table class="table table-striped text-center">
+            <thead>
+                <tr>
+                    <th>Course</th>
+                    <th>Lecturer</th>
+                    <th>Status</th>
+                    <th>Time</th>
+                    <th> Day of Week</th>
+                    <th>Time Course</th>
+                   
+                </tr>
+            </thead>
+            <tbody>
+                @if (calendares.Count > 0)
+                {
+                    var courseCountDict = new Dictionary<string, int>(); // Lưu trữ số lần xuất hiện của mỗi tên khóa học
+
+                    for (int i = 0; i < calendares.Count; i++)
+                    {
+                        var calendar = calendares[i];
+                        var check = CourseDAO.Instance.Courses().Find(x => x.ID == calendar.IDCourse);
+                        if (check!=null)
+                        {
+                            if (check.Status)
+                            {
+                                Course cor = CourseDAO.Instance.Courses().First(x => x.ID == calendar.IDCourse);
+                                var NameLecturer = cor.Lecturer.FirstName + " " + cor.Lecturer.LastName;
+
+                                if (courseCountDict.ContainsKey(calendar.Namecourse))
+                                {
+                                    courseCountDict[calendar.Namecourse]++;
+                                }
+                                else
+                                {
+                                    courseCountDict[calendar.Namecourse] = 1;
+                                }
+
+                                // Tính toán rowspan dựa trên số lần xuất hiện của tên khóa học
+                                int rowspanCount = courseCountDict[calendar.Namecourse];
+
+                                if (i == 0 || calendar.Namecourse != calendares[i - 1].Namecourse)
+                                {
+                                    <tr>
+                                        <td rowspan="@rowspanCount">
+                                            <b>
+                                                <span>@calendar.Namecourse</span>
+                                            </b>
+                                        </td>
+                                        <td rowspan="@rowspanCount">
+                                            <span>@NameLecturer</span>
+                                        </td>
+                                        @if(DateTime.Now> @cor.DayEnd)
+                                        {
+                                            <td rowspan="@rowspanCount" class=""><a class="btn-primary px-5" style="border-radius:30px; background-color: #fc8282;">Class is over</a></td>
+                                        }else if(DateTime.Now<=@cor.DayEnd && DateTime.Now >= @cor.DayStart)
+                                        {
+                                            <td rowspan="@rowspanCount" class=""><a class="btn-primary px-5" style="border-radius:30px; background-color: #2d8cdd;">In learning</a></td>
+                                        }
+                                        
+                                        <td>
+                                            <b><i>@calendar.TimeStart.ToString() - @calendar.TimeEnd.ToString()</i></b>
+                                       
+                                        <td>
+                                            <b><i>@calendar.DayOfWeek.ToString()</i></b>
+                                        </td>
+                                        <td rowspan="@rowspanCount">
+                                            <span>@cor.DayStart.ToString("dd/MM/yyyy") - @cor.DayEnd.ToString("dd/MM/yyyy")</span>
+                                        </td>
+
+                                    </tr>
+                                }
+                                else
+                                {
+                                    // Nếu tên khóa học giống với trước đó, không cần tạo dòng mới, chỉ tạo dòng dữ liệu
+                                    <tr>
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                          
+                                        <td>
+                                            <b><i>@calendar.TimeStart.ToString() - @calendar.TimeEnd.ToString()</i></b>
+
+                                        <td>
+                                            <b><i>@calendar.DayOfWeek.ToString()</i></b>
+                                        </td>
+                                        <td></td>
+                                    </tr>
+                                }
+                            }
+                            else
+                            {
+                                continue;
+                            }
+                        }
+                        else
+                        {
+                            continue;
+                        }
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="5"><h2>Not Found Anything</h2></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <!-- Calendar End -->
+    @Html.Partial("_footer")
+    @Html.Partial("_endScript")
+    <script>
+        console.log("@currentTime.ToString()");
+    </script>
+</body>
+
+</html>
+
+
+
+

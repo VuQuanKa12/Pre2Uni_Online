@@ -1,0 +1,9 @@
+D:\OJT2023\JOT23_HealthyLifeConnect\JOT23_HealthyLifeConnect\obj\Debug\net6.0\JOT23_Prep2UniOnline.csproj.AssemblyReference.cache
+D:\OJT2023\JOT23_HealthyLifeConnect\JOT23_HealthyLifeConnect\obj\Debug\net6.0\JOT23_Prep2UniOnline.GeneratedMSBuildEditorConfig.editorconfig
+D:\OJT2023\JOT23_HealthyLifeConnect\JOT23_HealthyLifeConnect\obj\Debug\net6.0\JOT23_Prep2UniOnline.AssemblyInfoInputs.cache
+D:\OJT2023\JOT23_HealthyLifeConnect\JOT23_HealthyLifeConnect\obj\Debug\net6.0\JOT23_Prep2UniOnline.AssemblyInfo.cs
+D:\OJT2023\JOT23_HealthyLifeConnect\JOT23_HealthyLifeConnect\obj\Debug\net6.0\JOT23_Prep2UniOnline.csproj.CoreCompileInputs.cache
+D:\OJT2023\JOT23_HealthyLifeConnect\JOT23_HealthyLifeConnect\obj\Debug\net6.0\JOT23_Prep2UniOnline.MvcApplicationPartsAssemblyInfo.cs
+D:\OJT2023\JOT23_HealthyLifeConnect\JOT23_HealthyLifeConnect\obj\Debug\net6.0\JOT23_Prep2UniOnline.MvcApplicationPartsAssemblyInfo.cache
+D:\OJT2023\JOT23_HealthyLifeConnect\JOT23_HealthyLifeConnect\obj\Debug\net6.0\JOT23_Prep2UniOnline.RazorAssemblyInfo.cache
+D:\OJT2023\JOT23_HealthyLifeConnect\JOT23_HealthyLifeConnect\obj\Debug\net6.0\JOT23_Prep2UniOnline.RazorAssemblyInfo.cs

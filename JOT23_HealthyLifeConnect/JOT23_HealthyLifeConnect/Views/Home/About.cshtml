@@ -1,0 +1,115 @@
+﻿@using JOT23_Pre2UniOnline.Models
+@using JOT23_Pre2UniOnline.DatAccess
+@{
+    ViewBag.title = "Pre2Uni";
+    var Lecturers = LecturerDAO.Instance.Lecturers();
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    @Html.Partial("_head")
+</head>
+
+<body>
+    @Html.Partial("_navStart")
+    <a href="@Url.Action("Index", "Home")" class="nav-item nav-link ">Home</a>
+    <a href="@Url.Action("About", "Home")" class="nav-item nav-link active">About US</a>
+    <a href="@Url.Action("Contact", "Home")" class="nav-item nav-link">Contact</a>
+    <a href="@Url.Action("Course", "Home")" class="nav-item nav-link">Course</a>
+    @Html.Partial("_navEnd")
+    <!-- tab search dictionary -->
+    <div class="container-fluid bg-primary mb-5 hero-header">
+        <div class="container py-5">
+            <div class="row justify-content-center py-5">
+                <div class="col-lg-10 pt-lg-5 mt-lg-5 text-center">
+                    <h1 class="display-3 text-white mb-3 animated slideInDown">Dictionary</h1>
+                    <p class="fs-4 text-white mb-4 animated slideInDown">Enter the word to find</p>
+                    <div class="position-relative w-75 mx-auto animated slideInDown">
+                        <form action="/Dictionary?" method="get">
+                            <input class="form-control border-0 rounded-pill w-100 py-3 ps-4 pe-5" name="searchDictionary" id="word" type="text" value="@ViewBag.word" placeholder="Eg: Vocabulary">
+                            <button type="submit" class="btn btn-primary rounded-pill py-2 px-4 position-absolute top-0 end-0 me-2" style="margin-top: 7px;">Search</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- About Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="row g-5">
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s" style="min-height: 400px;">
+                    <div class="position-relative h-100">
+                        <img class="img-fluid position-absolute w-100 h-100" src="~/img/about.jpg" alt="" style="object-fit: cover;">
+                    </div>
+                </div>
+                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <h6 class="section-title bg-white text-start text-primary pe-3">About Us</h6>
+                    <h1 class="mb-4">Welcome to <span class="text-primary">Prep2Uni</span></h1>
+                    <p class="mb-4">PreUniOnline là một trang web ôn luyện thi đại học được thiết kế để giúp mọi người cải thiện kiến thức của họ một cách dễ dàng và hiệu qủa. Chúng tôi cung cấp tài liệu ôn luyện chi tiết và phong phú cho mọi môn học từ Toán học, Văn học, Khoa học Tự nhiên đến Khoa học Xã hội. Chúng tôi cung cấp các tài liệu học tập đa dạng và chất lượng cao.</p>
+                    <p class="mb-4">
+                        Với sự đa dạng trong nội dung, từ cơ bản đến nâng cao, chúng tôi đảm bảo rằng mọi học sinh đều có thể tìm thấy tài liệu phù hợp với nhu cầu học tập của họ.Chúng tôi có đội ngũ giáo viên giàu kinh nghiệm và chu đáo, luôn sẵn sàng hỗ trợ và giải đáp mọi thắc mắc của học sinh thông qua diễn đàn trực tuyến.
+                    </p>
+                    <div class="row gy-2 gx-4 mb-4">
+                        <div class="col-sm-6">
+                            <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Ôn thi chất lượng</p>
+                        </div>
+                        <div class="col-sm-6">
+                            <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Meeting Room</p>
+                        </div>
+                        <div class="col-sm-6">
+                            <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Phản hồi nhanh chóng</p>
+                        </div>
+                        <div class="col-sm-6">
+                            <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Đội ngũ giảng viên hàng đầu</p>
+                        </div>
+                        <div class="col-sm-6">
+                            <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Học mọi lúc, mọi nơi</p>
+                        </div>
+                        <div class="col-sm-6">
+                            <p class="mb-0"><i class="fa fa-arrow-right text-primary me-2"></i>Bài giảng chất lượng</p>
+                        </div>
+                    </div>
+                    <a class="btn btn-primary py-3 px-5 mt-2" href="@Url.Action("About", "Home")">Read More</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Team Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                <h6 class="section-title bg-white text-center text-primary px-3">Travel Guide</h6>
+                <h1 class="mb-5">Meet Our Lecturer</h1>
+            </div>
+            <div class="row g-4">
+                @for (int i = 0; i < Lecturers.Count; i++)
+                {
+                    <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="team-item">
+                            <div class="overflow-hidden">
+                                <img class="img-fluid" src="~/img/Avatar/Lecturer/@(Lecturers[i].Avatar)" alt="">
+                            </div>
+                            <div class="position-relative d-flex justify-content-center" style="margin-top: -19px;">
+                                <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-square mx-1" href=""><i class="fab fa-twitter"></i></a>
+                                <a class="btn btn-square mx-1" href=""><i class="fab fa-instagram"></i></a>
+                            </div>
+                            <div class="text-center p-4">
+                                <h5 class="mb-0"><a href="@Url.Action("ViewLecturer","Home", new{IDLecturer = Lecturers[i].ID})">@Lecturers[i].FirstName @Lecturers[i].LastName</a></h5>
+                                <small>Lecturer</small>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+    <!-- Team End -->
+    @Html.Partial("_footer")
+    @Html.Partial("_endScript")
+</body>
+
+</html>

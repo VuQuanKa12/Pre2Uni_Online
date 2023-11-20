@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JOT23_HealthyLifeConnect.props" />
+</Project>
