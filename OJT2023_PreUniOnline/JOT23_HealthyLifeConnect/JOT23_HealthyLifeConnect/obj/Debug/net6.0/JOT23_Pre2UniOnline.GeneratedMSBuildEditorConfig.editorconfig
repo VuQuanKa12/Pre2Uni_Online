@@ -9,193 +9,97 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = JOT23_Pre2UniOnline
 build_property.RootNamespace = JOT23_Pre2UniOnline
-build_property.ProjectDir = D:\OJT2023_PreUniOnline\JOT23_HealthyLifeConnect\JOT23_HealthyLifeConnect\
+build_property.ProjectDir = C:\Users\PC\OneDrive\Desktop\PreUni\OJT2023_PreUniOnline\JOT23_HealthyLifeConnect\JOT23_HealthyLifeConnect\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = D:\OJT2023_PreUniOnline\JOT23_HealthyLifeConnect\JOT23_HealthyLifeConnect
+build_property.MSBuildProjectDirectory = C:\Users\PC\OneDrive\Desktop\PreUni\OJT2023_PreUniOnline\JOT23_HealthyLifeConnect\JOT23_HealthyLifeConnect
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Admin/AdminPage.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5QYWdlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Admin/Calendar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2FsZW5kYXIuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Admin/Course.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ291cnNlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Admin/DetailUser.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGV0YWlsVXNlci5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Admin/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Admin/Lecturer.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGVjdHVyZXIuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Admin/Nontification.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTm9udGlmaWNhdGlvbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Admin/ShowAccountData.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2hvd0FjY291bnREYXRhLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Admin/ViewLecturer.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVmlld0xlY3R1cmVyLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Admin/ViewStudent.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVmlld1N0dWRlbnQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/ExamTest/DetailExam.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbVRlc3RcRGV0YWlsRXhhbS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/ExamTest/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbVRlc3RcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/ExamTest/LecturerDoQuiz.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbVRlc3RcTGVjdHVyZXJEb1F1aXouY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/ExamTest/LecturerViewResult.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbVRlc3RcTGVjdHVyZXJWaWV3UmVzdWx0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/ExamTest/ListExamTest.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbVRlc3RcTGlzdEV4YW1UZXN0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/ExamTest/ListExamTestStudent.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbVRlc3RcTGlzdEV4YW1UZXN0U3R1ZGVudC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/ExamTest/PassExam.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbVRlc3RcUGFzc0V4YW0uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/ExamTest/SubmitExam.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbVRlc3RcU3VibWl0RXhhbS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Home/About.cshtml]
+[C:/Users/PC/OneDrive/Desktop/PreUni/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Home/Calendar.cshtml]
+[C:/Users/PC/OneDrive/Desktop/PreUni/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Home/Calendar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWxlbmRhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Home/Contact.cshtml]
+[C:/Users/PC/OneDrive/Desktop/PreUni/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Home/Course.cshtml]
+[C:/Users/PC/OneDrive/Desktop/PreUni/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Home/Course.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb3Vyc2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Home/DetailCourse.cshtml]
+[C:/Users/PC/OneDrive/Desktop/PreUni/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Home/DetailCourse.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxDb3Vyc2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Home/Dictionary.cshtml]
+[C:/Users/PC/OneDrive/Desktop/PreUni/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Home/Dictionary.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEaWN0aW9uYXJ5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Home/Index.cshtml]
+[C:/Users/PC/OneDrive/Desktop/PreUni/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Home/Profile.cshtml]
+[C:/Users/PC/OneDrive/Desktop/PreUni/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Home/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9maWxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Home/ViewLecturer.cshtml]
+[C:/Users/PC/OneDrive/Desktop/PreUni/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Home/ViewLecturer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWaWV3TGVjdHVyZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Login/ConfirmEmail.cshtml]
+[C:/Users/PC/OneDrive/Desktop/PreUni/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Login/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQ29uZmlybUVtYWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Login/ForgotPass.cshtml]
+[C:/Users/PC/OneDrive/Desktop/PreUni/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Login/ForgotPass.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRm9yZ290UGFzcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Login/Index.cshtml]
+[C:/Users/PC/OneDrive/Desktop/PreUni/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/MeetingRoom/Room.cshtml]
+[C:/Users/PC/OneDrive/Desktop/PreUni/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/MeetingRoom/Room.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVldGluZ1Jvb21cUm9vbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Notification/ViewNotification.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2F0aW9uXFZpZXdOb3RpZmljYXRpb24uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Quiz/DetailQuiz.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpelxEZXRhaWxRdWl6LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Quiz/Quiz.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpelxRdWl6LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Quiz/QuizGuest.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpelxRdWl6R3Vlc3QuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Quiz/SubmitQuiz.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpelxTdWJtaXRRdWl6LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Shared/_endScript.cshtml]
+[C:/Users/PC/OneDrive/Desktop/PreUni/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Shared/_endScript.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9lbmRTY3JpcHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Shared/_footer.cshtml]
+[C:/Users/PC/OneDrive/Desktop/PreUni/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Shared/_footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9mb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Shared/_head.cshtml]
+[C:/Users/PC/OneDrive/Desktop/PreUni/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Shared/_head.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9oZWFkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Shared/_navAdmin.cshtml]
+[C:/Users/PC/OneDrive/Desktop/PreUni/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Shared/_navAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9uYXZBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Shared/_navEnd.cshtml]
+[C:/Users/PC/OneDrive/Desktop/PreUni/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Shared/_navEnd.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9uYXZFbmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Shared/_navStart.cshtml]
+[C:/Users/PC/OneDrive/Desktop/PreUni/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Shared/_navStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9uYXZTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Shared/_profileLecturer.cshtml]
+[C:/Users/PC/OneDrive/Desktop/PreUni/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Shared/_profileLecturer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9wcm9maWxlTGVjdHVyZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Shared/_profileStudent.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9wcm9maWxlU3R1ZGVudC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Shared/_spanner.cshtml]
+[C:/Users/PC/OneDrive/Desktop/PreUni/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/Views/Shared/_spanner.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9zcGFubmVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/wwwroot/img/_navAdmin.cshtml]
+[C:/Users/PC/OneDrive/Desktop/PreUni/OJT2023_PreUniOnline/JOT23_HealthyLifeConnect/JOT23_HealthyLifeConnect/wwwroot/img/_navAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxpbWdcX25hdkFkbWluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
